@@ -17,7 +17,7 @@
 
 ## about me
 
-I'm interested in understanding how things work beyond the surface — from networks and operating systems to firmware, embedded devices and hardware.
+I'm interested in understanding how things work beyond the surface. From networks and operating systems to firmware, embedded devices and hardware.
 
 Currently focused on learning, building projects and documenting what I discover along the way.
 
