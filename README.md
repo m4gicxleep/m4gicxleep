@@ -25,6 +25,7 @@ Currently focused on learning, building projects and documenting what I discover
 
 <p align="left">
   <img src="https://img.shields.io/badge/Embedded_Security-6A1B9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Offensive_Security-8B0000?style=flat-square" />
   <img src="https://img.shields.io/badge/Firmware-283593?style=flat-square" />
   <img src="https://img.shields.io/badge/Hardware_Hacking-00695C?style=flat-square" />
   <img src="https://img.shields.io/badge/IoT_Security-0277BD?style=flat-square" />
