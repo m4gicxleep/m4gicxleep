@@ -14,9 +14,6 @@ I like understanding how things work — from operating systems and networks to 
 
 ### projects & research
 
-**[Virtual Smart Lock Security Assessment](https://github.com/m4gicxleep/virtual-smart-lock-security-assessment)**  
-A simulated Arduino smart lock, analyzed from firmware to attack surface, findings and remediation.
-
 **[Personal Cybersecurity Lab](https://m4gicxleep.github.io/)**  
 Notes, experiments and write-ups on embedded security, offensive security and reverse engineering.
 
