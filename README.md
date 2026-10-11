@@ -1,4 +1,4 @@
-# hey, i'm otavio 👋
+# hey, i'm otávio 👋
 
 **Cybersecurity student @ FIAP**  
 **Computer Engineering student @ SENAC**
