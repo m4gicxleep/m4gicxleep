@@ -17,9 +17,11 @@
 
 ## about me
 
-I'm interested in understanding how things work beyond the surface. From networks and operating systems to firmware, embedded devices and hardware.
+I like figuring out how things work, how they communicate, and how they break.
 
-Currently focused on learning, building projects and documenting what I discover along the way.
+Mostly interested in embedded systems, firmware, networking, and offensive security. I enjoy digging into the lower levels of technology, experimenting with hardware, and exploring security from different angles.
+
+This is where I keep my projects, experiments, and whatever I find interesting along the way.
 
 ## interests
 
